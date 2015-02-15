@@ -1,0 +1,26 @@
+Start: Sat, 14 Feb 2015 12:17:24 -0800
+End: Sat, 14 Feb 2015 12:17:24 -0800
+Tasks: forgot to add functionality to check for null userames. Fixed now.
+
+Start: Sat, 14 Feb 2015 12:07:01 -0800
+End: Sat, 14 Feb 2015 12:09:01 -0800
+Tasks: Added some comments, ready to turn in
+
+Start: Sat, 14 Feb 2015 11:00:00 -0800
+End: Sat, 14 Feb 2015 12:06:37 -0800
+Tasks: Finished working on the login/content assignment
+
+Start: Fri, 13 Feb 2015 22:30:00 -0800
+End: Fri, 13 Feb 2015 23:23:47 -0800
+Tasks: began working on login.php and content1.php
+
+Start: Fri, 13 Feb 2015 21:00:00 -0800
+End: Fri, 13 Feb 2015 21:59:46 -0800
+Tasks: fixed issues with loopback.php
+
+Start: Thu, 12 Feb 2015 17:30:00 -0800
+End: Thu, 12 Feb 2015 20:51:10 -0800
+Tasks: Created loopback.php. No testing yet
+
+Can't find log for multtable.php
+Spent 2 hours on it on Feb 10th
